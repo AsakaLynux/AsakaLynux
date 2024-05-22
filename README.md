@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Polytron Kudus
+- 🔭 I’m currently working on Polytron Kudus as System Analyst
 - 🌱 I’m currently learning Mobile Development using Flutter
 - 📫 How to reach me: email: asakalynux@gmail.com
 - 😄 Pronouns: he/him
